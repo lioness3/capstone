@@ -18,6 +18,7 @@
 * 1030am -ejected expo from project
 * 11 am - init and install pod
 * 12 pm -research and create another project without expo..
+* 12 30 pm - reinstalling xcode
 
 
 
