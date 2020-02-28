@@ -15,7 +15,7 @@
 * 9 am -Continue research and create README
 * 930 am -download android studio
 * 10 am - download Xcode
-* 1030am -
+* 1030am -ejected expo from project 
 
 
 
