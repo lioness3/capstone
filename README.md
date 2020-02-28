@@ -20,6 +20,8 @@
 * 12 pm -research and create another project without expo..
 * 12 30 pm - reinstalling xcode
 * 130 -still troubleshooting
+* 2 pm got successfull compile of 'npx react-native init capstone3'
+saved under master branch of repo: https://github.com/lioness3/drunkenText.git
 
 
 
