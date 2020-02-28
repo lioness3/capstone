@@ -14,7 +14,8 @@
 * 830am- installed expo globally on computer and also on personal cell phone device.
 * 9 am -Continue research and create README
 * 930 am -download android studio
-* 10 am -
+* 10 am - download Xcode
+* 1030am -
 
 
 
