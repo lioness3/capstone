@@ -13,7 +13,8 @@
 * 8 am- learned how to create a react native app with npx.
 * 830am- installed expo globally on computer and also on personal cell phone device.
 * 9 am -Continue research and create README
-* 930 am 
+* 930 am -download android studio
+* 10 am -
 
 
 
