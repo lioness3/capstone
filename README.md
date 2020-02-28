@@ -19,7 +19,7 @@
 * 11 am - init and install pod
 * 12 pm -research and create another project without expo..
 * 12 30 pm - reinstalling xcode
-
+* 130 -still troubleshooting
 
 
 
