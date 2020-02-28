@@ -15,7 +15,10 @@
 * 9 am -Continue research and create README
 * 930 am -download android studio
 * 10 am - download Xcode
-* 1030am -ejected expo from project 
+* 1030am -ejected expo from project
+* 11 am - init and install pod
+* 12 pm -research and create another project without expo
+
 
 
 
