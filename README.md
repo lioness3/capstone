@@ -23,8 +23,12 @@
 * 2 pm got successfull compile of 'npx react-native init capstone3'
 saved under master branch of repo: https://github.com/lioness3/drunkenText.git
 * 245 pm reading up on alert messages and trying out text input.
-* 330 -4 pm watching video https://www.youtube.com/watch?v=Hf4MJH0jDb4
+* 330 -4i pm watching video https://www.youtube.com/watch?v=Hf4MJH0jDb4
 
+
+###_3-6-20_
+* 9 read state in rteact-native
+* troubleshoot android simulator
 
 
 
