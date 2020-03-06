@@ -31,7 +31,7 @@ saved under master branch of repo: https://github.com/lioness3/drunkenText.git
 * troubleshoot android simulator
 * dismissing keyboard
 * troubleshoot changing state onPress
-
+* seperating components into reusable ones
 
 ***************
 ***************
