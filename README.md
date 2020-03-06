@@ -29,7 +29,7 @@ saved under master branch of repo: https://github.com/lioness3/drunkenText.git
 ###_3-6-20_
 * 9 read state in rteact-native
 * troubleshoot android simulator
-
+* dismissing keyboard 
 
 
 ***************
