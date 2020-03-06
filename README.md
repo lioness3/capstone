@@ -32,6 +32,7 @@ saved under master branch of repo: https://github.com/lioness3/drunkenText.git
 * dismissing keyboard
 * troubleshoot changing state onPress
 * seperating components into reusable ones
+* 130pm use useRef to manage state with hooks
 
 ***************
 ***************
