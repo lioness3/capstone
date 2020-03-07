@@ -36,6 +36,7 @@ saved under master branch of repo: https://github.com/lioness3/drunkenText.git
 * 230 start new project with expo permissions
 * 330 still researching.. contemplating switching project ideas
 * creating component tree for date idea app
+* new project on repo https://github.com/lioness3/dateIdeas.git
 
 ***************
 ***************
