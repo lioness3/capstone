@@ -35,6 +35,7 @@ saved under master branch of repo: https://github.com/lioness3/drunkenText.git
 * 130pm use useRef to manage state with hooks
 * 230 start new project with expo permissions
 * 330 still researching.. contemplating switching project ideas
+* creating component tree for date idea app
 
 ***************
 ***************
