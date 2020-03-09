@@ -42,6 +42,7 @@ saved under master branch of repo: https://github.com/lioness3/drunkenText.git
 ###_Monday march 9_
 
 * put geolocation on app
+* integrating zomato api 
 ***************
 ***************
 
