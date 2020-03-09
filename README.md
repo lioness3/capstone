@@ -44,6 +44,7 @@ saved under master branch of repo: https://github.com/lioness3/drunkenText.git
 * put geolocation on app
 * integrating zomato api
 * adding axios
+* parse through API 
 ***************
 ***************
 
