@@ -39,6 +39,9 @@ saved under master branch of repo: https://github.com/lioness3/drunkenText.git
 * new project on repo https://github.com/lioness3/dateIdeas.git
 
 ***************
+###_Monday march 9_
+
+* put geolocation on app
 ***************
 ***************
 
