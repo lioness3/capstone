@@ -46,6 +46,7 @@ saved under master branch of repo: https://github.com/lioness3/drunkenText.git
 * adding axios
 * parse through API
 * research
+* MVP logic is done!
 ***************
 ***************
 
